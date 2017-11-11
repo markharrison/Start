@@ -6,7 +6,7 @@
 
 ## Demos / Labs
 
-- [Azure API Management](https://github.com/markharrisonuk/Lab_APIM_Draft)
+- [Azure API Management](https://github.com/markharrisonuk/Lab_APIM)
 
 ---
 http://markharrison.uk/ 
