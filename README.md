@@ -7,6 +7,7 @@
 ## Demos / Labs
 
 - [Azure API Management](https://github.com/markharrisonuk/Lab_APIM)
+- [Kubernetes Minikube](https://github.com/markharrisonuk/Lab_Minikube)
 
 ---
-http://markharrison.uk/ 
+http://github.markharrison.io/ 
