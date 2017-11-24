@@ -7,6 +7,7 @@
 ## Demos / Labs
 
 - [Azure API Management](https://github.com/markharrisonuk/Lab_APIM)
+- [Azure Container Instance](https://github.com/markharrisonuk/Lab_ACI)
 - [Kubernetes Minikube](https://github.com/markharrisonuk/Lab_Minikube)
 
 ---
