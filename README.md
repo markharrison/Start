@@ -9,6 +9,7 @@
 - [Azure API Management](https://github.com/markharrisonuk/Lab_APIM)
 - [Azure Container Instance](https://github.com/markharrisonuk/Lab_ACI)
 - [Azure Container Service (AKS)](https://github.com/markharrisonuk/Lab_AKS)
+- [Functions](https://github.com/markharrisonuk/Lab_Functions)
 - [Service Fabric](https://github.com/markharrisonuk/Lab_ServiceFabric)
 - [Kubernetes Minikube](https://github.com/markharrisonuk/Lab_Minikube)
 
