@@ -7,6 +7,7 @@
 
 ## Demos / Labs
 
+- [application Insights](https://github.com/markharrisonuk/Lab_AppInsights/blob/master/README.md)
 - [Azure API Management](https://github.com/markharrisonuk/Lab_APIM/blob/master/README.md)
 - [Azure Container Instance](https://github.com/markharrisonuk/Lab_ACI/blob/master/README.md)
 - [Azure Container Service (AKS)](https://github.com/markharrisonuk/Lab_AKS/blob/master/README.md)
