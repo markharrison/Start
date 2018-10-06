@@ -21,5 +21,3 @@
 
 ---
 http://github.markharrison.io/ 
-
-<meta name="google-site-verification" content="UbpjwgXpHZSP6tD7-LfTsj-sLkyiZB9TDLTdkm9ZJrI" />
