@@ -15,5 +15,9 @@
 - [Service Fabric](https://github.com/markharrisonuk/Lab_ServiceFabric/blob/master/README.md)
 - [Kubernetes Minikube](https://github.com/markharrisonuk/Lab_Minikube/blob/master/README.md)
 
+## Other
+
+- [Setup - Azure Ubuntu Dev machine](https://github.com/markharrisonuk/Setup_AzureUbuntuDev/blob/master/README.md)
+
 ---
 http://github.markharrison.io/ 
