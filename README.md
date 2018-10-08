@@ -17,7 +17,7 @@
 
 ## Other
 
-- [Setup - Azure Ubuntu Dev machine](https://github.com/markharrisonuk/Setup_AzureUbuntuDev/blob/master/README.md)
+- [Setup - Azure Ubuntu Cloud IDE](https://github.com/markharrisonuk/Setup_AzureUbuntuCloudIDE/blob/master/README.md)
 
 ---
 http://github.markharrison.io/ 
