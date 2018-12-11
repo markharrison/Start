@@ -18,6 +18,7 @@
 ## Other
 
 - [Setup - Azure Ubuntu Cloud IDE](https://github.com/markharrisonuk/Setup_AzureUbuntuCloudIDE/blob/master/README.md)
+- [Setup - Azure App Service configuration using Key Vault](https://github.com/markharrisonuk/Setup_AppSvcKV/blob/master/README.md)
 
 ---
 http://github.markharrison.io/ 
