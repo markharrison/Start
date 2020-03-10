@@ -2,7 +2,7 @@
 
 - [Azure 1](http://azure1.io/)
 - [Azure News](http://news.azure1.io/)
-- [My Slideware](http://share.markharrison.io/)
+- [My Slideware](https://aka.ms/markharrisonshare)
 - [Docker Hub](https://hub.docker.com/r/markharrison/)
 
 ## Demos / Labs
