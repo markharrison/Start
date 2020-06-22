@@ -11,7 +11,7 @@
 - [Azure API Management](https://github.com/markharrison/Lab_APIM/blob/master/README.md)
 - [Azure Container Instance](https://github.com/markharrison/Lab_ACI/blob/master/README.md)
 - [Azure Kubernetes Service (AKS)](https://github.com/markharrison/Lab_AKS/blob/master/README.md)
-- [DevOps TestPlans](https://github.com/markharrison/Lab_AzureDevOps/blob/master/README.md)
+- [Azure DevOps](https://github.com/markharrison/Lab_AzureDevOps/blob/master/README.md)
 - [Functions](https://github.com/markharrison/Lab_Functions/blob/master/README.md)
 - [Service Fabric](https://github.com/markharrison/Lab_ServiceFabric/blob/master/README.md)
 - [Kubernetes Minikube](https://github.com/markharrison/Lab_Minikube/blob/master/README.md)
