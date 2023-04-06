@@ -1,7 +1,7 @@
 # Mark Harrison - demos and labs 
 
-- [Azure 1](http://azure1.io/)
-- [Azure News](http://news.azure1.io/)
+- [Azure 1](http://azure1.dev/)
+- [Azure News](http://news.azure1.dev/)
 - [My Slideware](https://aka.ms/markharrisonshare)
 - [Docker Hub](https://hub.docker.com/r/markharrison/)
 
@@ -22,4 +22,4 @@
 - [Setup - Azure App Service configuration using Key Vault](https://github.com/markharrison/Setup_AppSvcKV/blob/master/README.md)
 
 ---
-http://github.markharrison.io/ 
+http://github.com/markharrison 
